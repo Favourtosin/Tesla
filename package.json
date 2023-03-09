@@ -1,0 +1,14 @@
+{
+  "name": "tesla",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "miestic",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
